@@ -1,3 +1,5 @@
+package woowacourse_precourse;
+
 public class Q3 {
     int Solution (int number) {
         int result = 0;

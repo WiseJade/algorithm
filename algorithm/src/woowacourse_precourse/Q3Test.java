@@ -1,3 +1,5 @@
+package woowacourse_precourse;
+
 public class Q3Test {
     public static void main(String[] args) {
         Q3 q3 = new Q3();

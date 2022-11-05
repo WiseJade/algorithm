@@ -1,3 +1,5 @@
+package woowacourse_precourse;
+
 public class Q2 {
     String Solution(String cryptogram) {
         StringBuffer cryptBuffer = new StringBuffer(cryptogram);

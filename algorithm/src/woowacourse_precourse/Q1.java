@@ -1,3 +1,5 @@
+package woowacourse_precourse;
+
 public class Q1 {
     int solution (int[] pobi, int[] crong) {
         if (!(pobi.length == 2) || !(crong.length == 2)) return -1;
