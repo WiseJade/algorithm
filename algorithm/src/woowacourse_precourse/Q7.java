@@ -69,7 +69,7 @@ public class Q7 {
                 }
             }
             if (scoreArr[idx] == null) return result;
-            if (scoreArr[idx] != 0) {
+            if (scoreArr[idx] != 0 && !(userFriends.contains(scoreUser[idx]))) {
                 result.add(scoreUser[idx]);
             }
             scoreArr[idx] = null;
