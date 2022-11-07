@@ -1,6 +1,5 @@
 package woowacourse_precourse;
 
-import java.util.Arrays;
 
 public class Q6Test {
     public static void main(String[] args) {

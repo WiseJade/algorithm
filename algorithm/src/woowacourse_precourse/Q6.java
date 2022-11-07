@@ -23,6 +23,7 @@ public class Q6 {
                 }
             }
         }
+        result.sort(String::compareTo);
         return result;
     }
 }
